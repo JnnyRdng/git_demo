@@ -1,1 +1,2 @@
 move: flamethrower
+move: dig
